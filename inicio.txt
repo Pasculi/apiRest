@@ -1,0 +1,10 @@
+apiRest mongo atlas
+mongodb+srv://jsepulveda:<db_password>@cluster0.yaax1tt.mongodb.net/
+jsepulveda
+2ynDH9uFaSn_uj2
+URI: mongodb+srv://jsepulveda:2ynDH9uFaSn_uj2@cluster0.yaax1tt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+npm i cors express monggoose dotenv multer -S
+
+npm i -D nodemon
